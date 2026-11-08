@@ -15,6 +15,12 @@
 
 ---
 
+<img width="518" height="327" alt="image" src="https://github.com/user-attachments/assets/76093163-b74e-4d46-97cf-fbc6601e6590" />
+
+<img width="439" height="352" alt="image" src="https://github.com/user-attachments/assets/c6189ab9-9f99-4dcf-8ab5-1cf96742f37a" />
+
+<img width="442" height="352" alt="image" src="https://github.com/user-attachments/assets/57cc42de-8860-4d9e-8c29-e6d9dc80295e" />
+
 ## 硬件接线指南
 
 | ESP8266 引脚 | LM386 模块 / 喇叭 | 备注 |
